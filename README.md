@@ -1,7 +1,7 @@
 # The-lost-Shoe
 A short game that was made by 2 people during the GMTK gamejam, in 2 days.
 
-Programs used: <br>
+Softwares used: <br>
 Photoshop for assets <br>
 Visual studio for coding <br>
 Unity as the main game engine <br>
